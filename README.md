@@ -11,6 +11,7 @@ To tackle W. Avy's request, I've performed data analysis on a temperature datase
 
 ## Results
 
+![](./Resources/Jun_Dec_Temps.png).
 
 The analysis shows very promising information as follows:
  - The mean temperature both in June and December are well above 70 degrees. Given that most turists visiting the islands come from the continental US and that in the winter temperatures in the US are very frosty, we feel very confident that people will be very inclined to go trade getting brain freezes from our delicious ice creams rather than freezing themselves shoving snow out of their driveways.
